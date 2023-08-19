@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Nicolás 
 - 👀 I’m interested in Java, Kotlin and education
 - 🌱 I’m currently learning fullstack developer Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 jnramos24/jnramos24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
