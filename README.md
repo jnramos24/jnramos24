@@ -62,7 +62,7 @@ I design and deliver technical training programs for companies:
 | Course | Topics |
 |---|---|
 | ☕ **Java** | OOP, Collections, Streams, Concurrency, Best Practices |
-| 🍃 **Spring Boot** | REST APIs, Security, JPA, Microservices |
+| 🍃 **Spring Boot** | REST APIs, Security, JPA, Microservices Arch |
 | 🔷 **TypeScript** | Types, Interfaces, Generics, Integration with Angular/React |
 
 > Available for **in-company training** and **technical workshops**.
